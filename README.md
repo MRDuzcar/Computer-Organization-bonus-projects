@@ -75,7 +75,7 @@ In the timer oscillator, TRIG and THRES are connected to monitor the same timing
 
 [Read the counter report](4-bit%20binary%20counter.pdf)
 
-The counter report includes a link to a working demonstration video.
+[Watch the demonstration](https://drive.google.com/file/d/1D7bTK9Uz6o6VsKHJTn4yKfiw7pryZu5W/view?usp=sharing)
 
 ## Skills Demonstrated
 
